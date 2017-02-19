@@ -1,4 +1,4 @@
-a# RCleaningDataProject
+# RCleaningDataProject
 
 This repo contains an R script "run_analysis.R" that will process the provided Samsung dataset and produce an output file consisting of:
 
